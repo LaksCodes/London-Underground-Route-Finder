@@ -9,8 +9,8 @@ Estimate the time of arrival (ETA) based on the current time and travel time.
 
 ## Setup and Usage
 1. Dependencies: Ensure you have Python 3.x installed on your system along with the following libraries:
-	-openpyxl
-	-PyQt5
+	- openpyxl
+	- PyQt5
 2. Run the Application: Navigate to the project directory and run the main.py file:
 3. Input Start and Destination Stations: Enter the names of the start and destination stations in the provided text fields.
 4. Find Route: Click on the "Find Route" button to calculate the optimal route and ETA.
